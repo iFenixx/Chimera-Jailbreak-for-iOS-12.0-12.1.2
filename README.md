@@ -5,6 +5,11 @@ Support : A7/A8/A9/A10/A11/A12/A12X
 official Site: https://chimera.sh/
 
 
+v1.0 : https://chimera.sh/downloads/ios/1.0.ipa
+
+v.1.0.1 : https://chimera.sh/downloads/ios/1.0.1.ipa
+
+
 Full-fledged : 
 Chimera is the first true iOS 12 jailbreak to not only feature a CoreTrust bypass so that binaries don't need to be resigned, but to also support A12 devices, including iPhone Xs, iPhone Xr, and the newest iPads. Chimera doesn't tamper with user files, making it safer than alternatives.
 
